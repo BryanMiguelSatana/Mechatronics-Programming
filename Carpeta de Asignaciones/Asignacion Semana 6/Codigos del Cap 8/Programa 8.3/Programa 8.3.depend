@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1719326952 source:c:\users\18098\onedrive\desktop\ppm\capitulo\capitulo 8\programa 8.3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
